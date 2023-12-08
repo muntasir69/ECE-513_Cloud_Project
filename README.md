@@ -11,7 +11,7 @@ The following is the server-side code for the ECE513 project. This project focus
 
 Videos:
 ---------
-Pitch Video: [(https://youtu.be/pKrdHhLNEM4)]
+Pitch Video: [https://youtu.be/pKrdHhLNEM4]
 User Experience and Code Implements:[https://youtu.be/-8ff1xErOiU]
 
 Let's Get Started
